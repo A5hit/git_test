@@ -1,2 +1,3 @@
 # git_test
-Understanding git !!
+Familiarize with git 
+by following instructions from Odin Projects
